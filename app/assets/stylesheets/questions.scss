@@ -1,0 +1,24 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$gray: #F4F4F4;
+$yellow: #FFFEE1;
+$blue: #347AB7;
+$white: white;
+
+
+body {
+  background: $gray;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  }
+
+.coach {
+  background-color: $yellow;
+}
+
+.button {
+  background-color: $blue;
+  border-radius: 7px;
+  color: $white;
+}
